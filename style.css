@@ -74,3 +74,11 @@ body {
 .hidden {
   display: none;
 }
+@media(max-width : 60rem){
+  .add{
+    background-color: #ffe699 ;
+  }
+  .note .tools{
+    background-color: #ffe699 ;
+  }
+}
