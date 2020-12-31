@@ -2,8 +2,8 @@
     "name": "Notes App",
     "short_name": "Notes",
     "start_url": "/",
-    "disply":"standalone",
-    "background_color": "#333",
+    "display":"standalone",
+    "background_color": "#ffe699",
     "description": "Notes-App",
     "icon":[
         {
